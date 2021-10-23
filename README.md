@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Basanth
-- 👀 I’m interested in 
+- 👀 I’m looking for 
   - Java Developer role
   - Full Stack developer
 - 🌱 I’m a continuous learner and currently learning :
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
   - Algorithms using Java
   - Java 11
   - UI Technologies
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on UI developer
 - 📫 How to reach me 
-  basanth.ies@gmail.com OR
-  basanth.yarragutnla@gmail.com
-  Mobile: +91 9492525936
+  - 💬 email id # 1. basanth.ies@gmail.com
+  - 📧 email id # 2. basanth.yarragutnla@gmail.com
+  - 📱 Mobile: +91 9492525936
 
