@@ -1,10 +1,10 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **Basanth215/Basanth215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+- 👋 Hi, I’m Basanth
+- 👀 I’m interested in 
+  - Java Developer role
+  - Full Stack developer
+- 🌱 I’m a continuous learner and currently learning :
+  - Data Structures
+  - Algorithms using Java
+  - Java 11
+  - UI Technologies
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 
+  basanth.ies@gmail.com OR
+  basanth.yarragutnla@gmail.com
+  Mobile: +91 9492525936
 
