@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m Basanth
+# 👋 Hi, I’m Basanth
 - 👀 I’m looking for 
   - Java Developer role
   - Full Stack developer
