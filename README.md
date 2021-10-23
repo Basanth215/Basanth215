@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - Algorithms using Java
   - Java 11
   - UI Technologies
-- 💞️ I’m looking to collaborate on UI developer
+<!--- 💞️ I’m looking to collaborate on UI developer-->
 - 📫 How to reach me 
   - 💬 email id # 1. basanth.ies@gmail.com
   - 📧 email id # 2. basanth.yarragutnla@gmail.com
